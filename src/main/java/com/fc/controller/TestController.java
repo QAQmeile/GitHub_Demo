@@ -9,4 +9,7 @@ public class TestController {
     public void test(){
 
     }
+    private void asd(){
+
+    }
 }
